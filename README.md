@@ -1,8 +1,3 @@
-Panduan Pengguna Super
-Analisa Spektrum Frekuensi/Salin Cepat Satu Saluran/VOX/
-Transmisi Multi-Band dan Penerimaan 18∽660MHz 840∽1300MHz/
-Pengisian Daya TYPE-C dan Basis-dudukan/200 Saluran/
-Radio FM Fungsional/Demodulasi USB-AM-FM/SMS
 PERHATIAN SEBELUM MENGGUNAKAN
 Radio ini menggabungkan desain luar biasa dan teknologi canggih terkini. Saran berikut akan membantu Anda memenuhi kewajiban Anda dalam bergaransi. Dan ini memberi Anda informasi penting tentang cara mengoperasikan radio portabel ini dengan aman.
 
@@ -332,13 +327,10 @@ Saat radio berada pada frekuensi yang tepat dan pesan diterima, tetapi mode SMS 
 Radio FM Fungsional
 Di halaman utama, atur frekuensi untuk VFO utama dengan nol-transmisi untuk mencegah interupsi (bug) ketika memonitor lebih dari satu frekuensi. Aktifkan mode Radio FM dengan menekan tombol kombinasi F + 0, atau dengan tekan lama tombol 0. Tekan tombol ▲/▼ untuk menyetel saluran, dan tombol EXIT untuk keluar dari mode Radio FM.
 
-
-73.
-
 Disusun (alih bahasa) dan ditulis oleh dzakysrgh.
-© 2024 dzakysrgh
+© 2025dzakysrgh
 Dokumentasi radio diadaptasi dari produsen, Quansheng Electronics Co., Ltd..
 © dzakysrgh
 
 Dokumentasi firmware diadaptasi dari pemrogram, dzakysrgh.
-© 2024 dzakysrgh
+© 2025 dzakysrgh
