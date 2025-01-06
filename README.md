@@ -383,12 +383,10 @@ Di halaman utama, atur frekuensi untuk VFO utama dengan nol-transmisi untuk menc
 
 73.
 
-Disusun (alih bahasa) dan ditulis oleh owl4ce.
+Disusun (alih bahasa) dan ditulis oleh dzakysrgh.
 © 2024 dzakysrgh
-https://github.com/dzakysrgh
-
 Dokumentasi radio diadaptasi dari produsen, Quansheng Electronics Co., Ltd..
 © dzakysrgh
 
-Dokumentasi firmware diadaptasi dari pemrogram, kamilsss655.
+Dokumentasi firmware diadaptasi dari pemrogram, dzakysrgh.
 © 2024 dzakysrgh
