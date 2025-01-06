@@ -1,74 +1,118 @@
-!DOCTYPE html>
-<html>
-  <head>
-    <title>Dicoding Indonesia Website</title>
-  </head>
-  <body>
-    <main>
-      <h1>Dicoding Indonesia</h1>
-      <h2>Gudangnya developer handal</h2>
-      <p>Mencetak banyak lulusan terbaik khususnya para developer.</p>
-      <img src="logo_dicoding.png" alt="Image dicoding" />
-      <p>Paragraph two with a <a href="https://dicoding.com">klik disini</a></p>
-    </main>
-  </body>
-</html>
 <!DOCTYPE html>
+ 
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="style.css" />
-    <title>Web | Portofolio</title>
-  </head>
-  <body>
-    <div class="container">
-      <div class="sidebar">
-        <nav>
-          <ul>
-            <li><a href="">About</a></li>
-            <li><a href="">Portofolio</a></li>
-            <li><a href="">Blog</a></li>
-            <li><a href="">Contact</a></li>
-          </ul>
-        </nav>
-      </div>
-      <main class="content">
-        <section class="hero">
-          <img src="online.png" alt="" />
-          <div class="hero-content">
-            <h1>Profesi</h1>
-            <br />
-            <h2>Junior Content Writer at Dicoding</h2>
-            <br /><br />
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos, aperiam dolore
-              assumenda velit repellendus recusandae magni consectetur mollitia facere incidunt
-              inventore perspiciatis debitis doloribus ullam minima culpa voluptatem. Repellendus,
-              option.
-            </p>
-            <a href="" class="action-btn">Profile Saya</a>
-          </div>
-        </section>
-      </main>
-      <div class="footer">
-        <footer>
-          <ul>
-            <li>
-              <img src="instagram.png" alt="" /><a><p>Instagram</p></a>
-            </li>
-            <li>
-              <img src="facebook.png" alt="" /><a><p>Facebook</p></a>
-            </li>
-            <li>
-              <img src="twitter.png" alt="" /><a><p>Twitter</p></a>
-            </li>
-            <li>
-              <img src="telegram.png" alt="" /><a><p>Telegram</p></a>
-            </li>
-          </ul>
-        </footer>
-      </div>
-    </div>
-  </body>
-  </html >
+ 
+<head>
+ 
+    <meta charset="UTF-8">
+ 
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ 
+    <title>HTML Bucin</title>
+ 
+    <link rel="stylesheet" href="style.css">
+ 
+</head>
+ 
+<body>
+ 
+    <h1>Hai Sayangku! ❤️</h1>
+ 
+    <p>Kamu adalah alasan kenapa aku bisa senyum setiap hari 😊</p>
+ 
+    <p class="heart">💖</p>
+ 
+    <button class="button-love" onclick="showLove()">Klik untuk tahu rahasiaku</button>
+ 
+ 
+ 
+ 
+    <script src="script.js"></script>
+ 
+</body>
+ 
+</html>
+body {
+ 
+    background-color: #ffe6e6;
+ 
+    color: #ff66b2;
+ 
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+ 
+    text-align: center;
+ 
+    margin: 0;
+ 
+    padding: 0;
+ 
+}
+ 
+h1 {
+ 
+    margin-top: 50px;
+ 
+    font-size: 48px;
+ 
+    color: #ff4081;
+ 
+}
+ 
+p {
+ 
+    font-size: 24px;
+ 
+}
+ 
+.heart {
+ 
+    font-size: 100px;
+ 
+    color: #ff1744;
+ 
+    animation: beat 1s infinite;
+ 
+}
+ 
+@keyframes beat {
+ 
+    0%, 20%, 50%, 80%, 100% {transform: scale(1);}
+ 
+    40% {transform: scale(1.2);}
+ 
+    60% {transform: scale(0.9);}
+ 
+}
+ 
+.button-love {
+ 
+    margin-top: 30px;
+ 
+    padding: 10px 20px;
+ 
+    font-size: 18px;
+ 
+    color: white;
+ 
+    background-color: #ff66b2;
+ 
+    border: none;
+ 
+    border-radius: 5px;
+ 
+    cursor: pointer;
+ 
+}
+ 
+.button-love:hover {
+ 
+    background-color: #ff4081;
+ 
+}
+function showLove() {
+ 
+    alert('Aku cinta kamu selamanya! ❤️');
+ 
+}
