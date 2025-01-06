@@ -1,49 +1,4 @@
-
-Navigation Menu
-dzakysrgh
-uv-k5-id
-
-Code
-Pull requests
-Discussions
-Actions
-Security
-Insights
-Owner avatar
-uv-k5-id
-Public
-Add file
-Folders and files
-Name		
-Latest commit
-owl4ce
-owl4ce
-**/*
-bb065ff
- · 
-7 months ago
-History
-.github
-**/*
-7 months ago
-ID.MANUALS.NUNU-20.5
-**/*
-7 months ago
-ID.REGULATIONS
-**/*
-7 months ago
-src-images
-**/*
-7 months ago
-README.md
-**/*
-7 months ago
-Repository files navigation
-README
-RADIO DUA-ARAH MULTIFUNGSI
-
 Panduan Pengguna Super
-
 Analisa Spektrum Frekuensi/Salin Cepat Satu Saluran/VOX/
 Transmisi Multi-Band dan Penerimaan 18∽660MHz 840∽1300MHz/
 Pengisian Daya TYPE-C dan Basis-dudukan/200 Saluran/
@@ -95,9 +50,6 @@ Gunakan kabel pemrograman dengan tipe konektor Kenwood K-plug (Baofeng, dsb.), d
 Matikan radio dengan memutar knob ke kanan hingga "klik";
 Hidupkan radio dalam mode pemrograman dengan menekan dan tahan tombol PTT, lalu putar knob ke kiri. Kemudian, lepaskan PTT dan pastikan jacklight menyala stabil yang menandakan radio sedang dalam mode pemrograman;
 Sambungkan K-plug kabel pemrograman ke radio dengan "pas" untuk memastikan radio terhubung dengan baik;
-Pada peramban web komputer Anda, buka halaman URL https://kamilsss655.github.io/uvtools/?firmwareURL=https://github.com/kamilsss655/uv-k5-firmware-custom/releases/download/v.20.5/firmware.packed.bin dan tunggu beberapa saat hingga log menunjukkan keluaran sebagai berikut.
-Loading file from url: https://github.com/kamilsss655/uv-k5-firmware-custom/releases/download/v.20.5/firmware.packed.bin
-
 CRC check passed...
 Detected firmware version: *NUNU v.20.5
 Firmware uses 99.08% of available memory (60872/61439 bytes).
